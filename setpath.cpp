@@ -23,5 +23,5 @@ void setpath(){
 
 int main(){
     setpath();
-    system("./allocations.exe"); 
+    allocations();
 }
